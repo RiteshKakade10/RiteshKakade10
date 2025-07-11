@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kakade</h1>
 <h3 align="center">I am a passionate Frontend Developer and aspiring Software Engineer from India with hands-on experience in MERN Stack, Java, Python, and Cloud technologies. I thrive on building impactful web solutions with a focus on responsive design, performance, and user-centric development. My interests lie in creating seamless digital experiences using React.js, Node.js, Tailwind CSS, and blockchain integration. I have worked on meaningful projects, including a blockchain-based educational record verification system, automated web processes using RPA tools like UIPath, and dynamic web portals. I enjoy problem-solving, learning new technologies, and contributing to innovative solutions.</h3>
 
-- 🔭 I’m currently working on [FyndJobs](https://fyndjobs.netlify.app/)
+- 🔭 I’m currently working on [Velvo](https://riteshkakade10.github.io/Velvo/)
 
 - 🌱 I’m currently learning **Next.js popular react.js library**
 
