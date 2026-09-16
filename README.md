@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react,node,express,mongodb,aws,java,etc**
 
-- 📫 How to reach me **riteshkakade.rmdstic.comp@gmail.com**
+- 📫 How to reach me **riteshkakade9697@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eg1EA2cbuRWuiU00L3RaKBLXaoH4W4ig/view?usp=sharing](https://drive.google.com/file/d/1eg1EA2cbuRWuiU00L3RaKBLXaoH4W4ig/view?usp=sharing)
 
